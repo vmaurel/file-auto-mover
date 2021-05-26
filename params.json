@@ -1,15 +1,15 @@
 {
     "folders": [
         {
-            "source": "C:\\Sources\\bestbuy-newegg-in-stock-checker\\folders\\source1",
-            "destination": "C:\\Sources\\bestbuy-newegg-in-stock-checker\\folders\\destination1",
+            "source": "C:\\Sources\\GIT\\file-auto-mover\\folders\\source1",
+            "destination": "C:\\Sources\\GIT\\file-auto-mover\\folders\\destination1",
             "extensions": [
                 "plot"
             ]
         },
         {
-            "source": "C:\\Sources\\bestbuy-newegg-in-stock-checker\\folders\\source2",
-            "destination": "C:\\Sources\\bestbuy-newegg-in-stock-checker\\folders\\destination2",
+            "source": "C:\\Sources\\GIT\\file-auto-mover\\folders\\source2",
+            "destination": "C:\\Sources\\GIT\\file-auto-mover\\folders\\destination2",
             "extensions": [
                 "plot"
             ]
