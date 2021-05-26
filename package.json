@@ -1,0 +1,24 @@
+{
+  "name": "file-auto-mover",
+  "version": "1.0.0",
+  "description": "This app monitor a folder and move any file within a list of extensions to a destination folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmaurel/file-auto-mover.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vmaurel/file-auto-mover/issues"
+  },
+  "homepage": "https://github.com/vmaurel/file-auto-mover#readme",
+  "dependencies": {
+    "chokidar": "^3.5.1",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
